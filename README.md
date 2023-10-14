@@ -1,1 +1,3 @@
 # quiz
+
+Run `main.py` ⏩💨
